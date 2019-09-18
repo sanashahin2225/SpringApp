@@ -1,5 +1,5 @@
 FROM openjdk:9
-MAINTAINER Nishant Ketu <sana.shahin@atmecs.com>
+MAINTAINER Sana Shahin <sana.shahin@atmecs.com>
 ADD target/springbootdemo-0.0.1-SNAPSHOT.jar app.jar
 EXPOSE 8010
 
